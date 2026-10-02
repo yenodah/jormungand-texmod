@@ -24,8 +24,14 @@ The markers combine the spawn points from XTFOX's original Jormungand texmod wit
 
 ## How to hunt with it
 
-- Enter Bjora Marches **from Jaga Moraine** and walk over the map markers. Spawns may differ if you arrive from another area. The numbering shows one possible route, but it isn't a recommendation.
-- Each visit gives three chances to encounter a wurm, one per zone: north-west (orange), south-west (green) and south-east (blue).
+There are two ways to hunt:
+
+- **Orange zone only:** enter Bjora Marches from the **Jaga Moraine** portal and walk over the orange markers. The numbering is laid out for this route: it starts at the Jaga Moraine portal and covers only the orange zone (1–24). It's one possible route, not a recommendation.
+- **All three zones:** for a full run, you can also start from **Longeye's Ledge**. The numbering isn't laid out for this route, so choose your own path through the orange, green and blue markers.
+
+Good to know:
+
+- Each visit gives up to three chances to encounter a wurm, one per zone: north-west (orange), south-west (green) and south-east (blue).
 - If you see a Frozen Elemental or a normal Frost Wurm in a zone, Jormungand will not spawn there. This is the current working hypothesis and may still be proven wrong.
 - While burrowed, wurms follow your group for a bit, so the exact spawn point may be slightly off a marker.
 
