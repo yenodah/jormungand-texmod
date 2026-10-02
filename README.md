@@ -1,8 +1,8 @@
 # Jormungand Texmod
 
-A Guild Wars texture mod that marks and **numbers all 69 known Frost Wurm spawn points** in Bjora Marches, any of which could be where [Jormungand](https://wiki.guildwars.com/wiki/Jormungand) appears.
+A Guild Wars texture mod that marks and **numbers the known Frost Wurm spawn points** in Bjora Marches, based on player research. Any of them is a possible spawn location for the boss [Jormungand](https://wiki.guildwars.com/wiki/Jormungand).
 
-Jormungand is one of the rarest bosses in Guild Wars, and his unique hammer, Jormungand's Thunder, is very hard to farm. With every spawn point on your map and numbered, you can sweep the area systematically and call out spots to your party.
+Jormungand is one of the rarest bosses in Guild Wars, and his unique hammer, [Jormungand's Thunder](https://wiki.guildwars.com/wiki/Jormungand%27s_Thunder), is very hard to farm. With every spawn point on your map and numbered, you can sweep the area systematically and call out spots to your party.
 
 **Download:** [`Jormungand_Numbered.tpf`](Jormungand_Numbered.tpf)
 
@@ -10,7 +10,7 @@ Jormungand is one of the rarest bosses in Guild Wars, and his unique hammer, Jor
 
 ## What the colors mean
 
-Bjora Marches is divided into three zones. Each time you enter, every zone can hold a Frost Wurm, a Frozen Elemental, or nothing at all. Sometimes the wurm that spawns is the boss Jormungand himself, but there isn't enough data yet to find a reliable way to predict when.
+Player research has shown that multiple wurms may spawn in Bjora Marches, but at most one in each of the zones the colors represent. Each time you enter, every zone can hold a Frost Wurm, a Frozen Elemental, or nothing at all. Sometimes the wurm that spawns is the boss Jormungand himself, but there isn't enough data yet to find a reliable way to predict when.
 
 The marker color shows which zone a spawn point belongs to:
 
@@ -20,7 +20,7 @@ The marker color shows which zone a spawn point belongs to:
 | Green | South-west | 25–37 |
 | Blue | South-east | 38–69 |
 
-The markers combine the spawn points from XTFOX's original Jormungand texmod with a second community spawn map. Spots that were almost identical were merged into one marker, placed halfway between them.
+The markers combine the spawn points from XTFOX's original Jormungand texmod with other community spawn maps, and include research done by Lynstyn and myself (Yen Odah). Spots that were almost identical were merged into one marker, placed halfway between them.
 
 ## How to hunt with it
 
@@ -47,6 +47,8 @@ Created by **Yen Odah**, with the help of Claude.
 ### Thanks
 
 This project builds on years of community wurm hunting.
+
+**Special thanks to Lynstyn** for his research and tenacity.
 
 **[The Hunt for Jormungand](https://guildwarslegacy.com/forum/thread/14789-the-hunt-for-jormungand/)** (Guild Wars Legacy forum):
 - **XTFOX**: the original [Jormungand texmod](https://github.com/XTFOX/Jormungand) this mod is built on
